@@ -1,0 +1,14 @@
+{
+  "name": "04-console-task-app",
+  "version": "0.0.1",
+  "description": "Aplicacion de tareas a realizar en consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swumplurd",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
