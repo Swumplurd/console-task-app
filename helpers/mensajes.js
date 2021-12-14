@@ -3,11 +3,11 @@ const { resolve } = require('path');
 require('colors');
 
 const mostrarMenu = () => {
-    return new Promise((resolve) => {
+    return new Promise( resolve => {
         console.clear();
-        console.log('============================'.green);
-        console.log('Seleccione una opcion');
-        console.log('============================\n'.green);
+        console.log('==========================='.green);
+        console.log('   Seleccione una opcion');
+        console.log('===========================\n'.green);
     
         console.log(`${'1.'.green} Crear tarea`);
         console.log(`${'2.'.green} Listar tareas`);
