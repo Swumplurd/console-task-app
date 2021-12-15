@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "0ec606f2-2d4d-4468-b434-9b803aaf1049",
+    "desc": "Guantelete del infinito",
+    "completadoEn": null
+  },
+  {
+    "id": "b4b71f2b-8f21-4d5c-bde5-bb3d9b4b36c2",
+    "desc": "Alma",
+    "completadoEn": null
+  },
+  {
+    "id": "ac001255-f39e-4188-a988-4468285652cb",
+    "desc": "Poder",
+    "completadoEn": null
+  },
+  {
+    "id": "c5a30e3e-c3d7-4d99-abbc-dadc3ddc45a9",
+    "desc": "Mente",
+    "completadoEn": null
+  }
+]
